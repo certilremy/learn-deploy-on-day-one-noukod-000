@@ -4,7 +4,7 @@
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
-  
+
 }
 
 html {
@@ -135,7 +135,7 @@ a:visited {
 }
 
 #certilremy {
- background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
+ background-image: url("https://i.imgur.com/GZ6TQwR.jpg");
 }
 
 #joe-burgess-card {
